@@ -1,4 +1,4 @@
-# cryptogitUX
+
 # Crypto Trading Simulator (Python)
 
 A simple Python project that simulates basic crypto trading.
